@@ -1,4 +1,4 @@
-Hola, soy Guillermo y esta es mi práctica de Git.
+Hola, soy Guillermo y vivo en Sevilla.
 
 Mis hobbies:
 - Ir al cine
