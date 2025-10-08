@@ -1,3 +1,5 @@
 - Despliegue en Aplicaciones Web
 - Diseño de Interfaces Web
 - Inglés Profesional
+- Itinerario para la Empresa
+- Desarrollo Web en Entorno Servidor
